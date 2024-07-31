@@ -21,11 +21,13 @@ namespace DelThisPrj
                             StartOfProgram(Console.ReadLine());
                             break;
                         }
+                        /*
                     case "2":
                         {
                             Console.WriteLine("База данных удалена");
                             break;
                         }
+                        */
                     default:
                         {
                             Console.WriteLine("Не верно выбрано действие");

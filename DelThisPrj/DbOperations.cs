@@ -13,13 +13,13 @@ namespace DelThisPrj
         /// </summary>
         /// <param name="word"></param>
         /// <param name="exists"></param>
-        public static void Add(string word, int exists)
+        public async static void Add(string word, int exists)
         {
             using (var db = new DbConnection())
             {
                 var model = new Model() { Word = word, Exists = exists };
                 db.Set<Model>().Add(model);
-                db.SaveChanges();
+                await db.SaveChangesAsync();
             }
         }
         /// <summary>
@@ -27,7 +27,7 @@ namespace DelThisPrj
         /// </summary>
         /// <param name="word"></param>
         /// <param name="exists"></param>
-        public static void Update(string word, int exists)
+        public async static void Update(string word, int exists)
         {
             using (var db = new DbConnection())
             {
@@ -38,7 +38,7 @@ namespace DelThisPrj
                     return;
                 }
                 model.Exists += exists;
-                db.SaveChanges();
+                await db.SaveChangesAsync();
             }
         }
     }

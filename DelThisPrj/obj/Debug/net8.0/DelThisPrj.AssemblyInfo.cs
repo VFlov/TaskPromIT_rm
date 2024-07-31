@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelThisPrj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+569ab53c0986bea9a07e166e416b72f17f02de68")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelThisPrj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelThisPrj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
