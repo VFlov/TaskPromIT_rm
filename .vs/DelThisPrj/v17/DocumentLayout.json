@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\dboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\dboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DelThisPrj.DbConnection/True/SqlTable/dbo.Models.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\delthisprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\delthisprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|c:\\users\\milana\\source\\repos\\delthisprj\\delthisprj\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4A60A-57E7-4550-839B-C1D7B87FDC26}|DelThisPrj\\DelThisPrj.csproj|solutionrelative:delthisprj\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DbOperations.cs",
+              "RelativeDocumentMoniker": "DelThisPrj\\DbOperations.cs",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DbOperations.cs",
+              "RelativeToolTip": "DelThisPrj\\DbOperations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:59:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelThisPrj.csproj",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DelThisPrj.csproj",
+              "RelativeDocumentMoniker": "DelThisPrj\\DelThisPrj.csproj",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DelThisPrj.csproj",
+              "RelativeToolTip": "DelThisPrj\\DelThisPrj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T06:59:24.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Models [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DelThisPrj.DbConnection/True/SqlTable/dbo.Models.sql",
+              "ToolTip": "dbo.Models [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-30T12:58:19.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Test.cs",
+              "RelativeDocumentMoniker": "DelThisPrj\\Test.cs",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Test.cs",
+              "RelativeToolTip": "DelThisPrj\\Test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:08:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DelThisPrj\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\DbConnection.cs",
+              "RelativeToolTip": "DelThisPrj\\DbConnection.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:56:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Program.cs",
+              "RelativeDocumentMoniker": "DelThisPrj\\Program.cs",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Program.cs",
+              "RelativeToolTip": "DelThisPrj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:34:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Model.cs",
+              "RelativeDocumentMoniker": "DelThisPrj\\Model.cs",
+              "ToolTip": "C:\\Users\\Milana\\source\\repos\\DelThisPrj\\DelThisPrj\\Model.cs",
+              "RelativeToolTip": "DelThisPrj\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:58:20.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
